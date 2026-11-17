@@ -1,2 +1,2 @@
 exemplu de fisier
-echo "Studenta A"
+echo "Studenta A: Vlaicu Alexandra"
